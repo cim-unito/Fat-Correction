@@ -5,4 +5,7 @@ Traditionally, CEST contrast is calculated by the asymmetry analysis, but the pr
 - lorentzian method (#3) consists in replacing the negative part of the Z-spectrum by the water pool contribution upon Lorentzian fitting of the spectrum
 - interpolation method (#4) corrects the calculated ratiometric values accordingly to the measured fat fraction levels, by interpolating the ratiometric values with cubic splines to correct for the proper pH values
 
+# Getting Started
+The project was written in Matlab R2023b (The Math-Works, Inc., Natick, MA, USA). Lorentzian CEST curve fitting was implemented with the open-source Matlab-based code (https://github.com/cest-sources/CEST_EVAL). 
+
 
